@@ -1,4 +1,3 @@
-# Angular-App-for-Medium
-To deploy Angular app to Azure
+You can visit the below link to have more details 
 
-The angular app is for https://medium.com/p/5c6e2d7ee8c0
+https://medium.com/p/5c6e2d7ee8c0
